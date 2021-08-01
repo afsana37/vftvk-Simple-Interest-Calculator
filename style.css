@@ -16,3 +16,6 @@ h1{
     border-radius: 25px;
     text-align: center;
 }
+.highlight {
+    background-color: yellow;
+  }
